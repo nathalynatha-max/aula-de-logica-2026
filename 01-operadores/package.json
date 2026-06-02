@@ -1,0 +1,16 @@
+{
+  "name": "nathaly",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathaly",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
+
