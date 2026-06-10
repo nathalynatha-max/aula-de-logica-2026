@@ -40,7 +40,8 @@ if(diaSamana === "sabado" || diaSamana === "domingo") {
     console.log("DIA ÚTIL")
 }
 
-// DESAFIO DO NÚMERO PAR OU IMPAR;
+// DESAFIO DO NÚMERO PAR OU IMPAR,exercicio 02;
+
 var numero = 6;
 if(numero % 2 === 0) {
     console.log("PAR")
@@ -63,3 +64,14 @@ switch (cor) {
     default:
         console.log("COR INVÁLIDA")
 }
+
+// OPERADOR TERNÁRIO / ESTRUTURA CONDICIONAL
+
+(CONDIÇÃO) ? "ALGO ACONTECEU" : "OUTRA COISA ACONTECE";
+
+var idade = 22;
+var eMaior = idade >= 18 ? "MAIOR DE IDADE" : "MENOR DE IDADE";
+console.log(eMaior);
+
+// OU
+console.log(idade >= 18 ? "MAIOR DE IDADE" : "MENOR DE IDADE")
