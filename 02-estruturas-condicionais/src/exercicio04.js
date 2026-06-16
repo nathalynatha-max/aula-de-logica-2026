@@ -1,3 +1,4 @@
+// exercicio 4
 import leia from 'readline-sync' 
 
 var macas = leia.question("DIGITE QUANTIDADES DE MACAS: ");

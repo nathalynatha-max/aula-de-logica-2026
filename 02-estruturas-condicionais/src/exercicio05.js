@@ -1,5 +1,4 @@
-// número 1
-
+// exercicio 1
 import leia from 'readline-sync'
 
 //cliente 1
@@ -19,3 +18,17 @@ if (valor1 > 20) {
 if (valor2 > 20) {
     console.log("Acima de 20: " + nome2);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
